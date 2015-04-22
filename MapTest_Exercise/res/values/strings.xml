@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">MapTest_Exercise</string>
+    <string name="quake">地震清單:</string>
+    <string name="tvPtNews">新聞內容</string>
+
+</resources>
