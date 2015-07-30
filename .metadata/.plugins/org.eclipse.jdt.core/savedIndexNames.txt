@@ -1,9 +1,0 @@
-INDEX VERSION 1.126+D:\JavaSandbox\GitHub\quakeWithGoogleMap\.metadata\.plugins\org.eclipse.jdt.core
-4002537605.index
-3515282563.index
-1701947370.index
-1717184266.index
-1892146823.index
-134060278.index
-848856923.index
-3139869660.index
